@@ -74,10 +74,10 @@
 
 | Requirement | Specification |
 |---|---|
-| **App Name** | ShareSathi (शेयर साथी) |
-| **Version** | 2.0.0 |
+| **App Name** | ShareSathi |
+| **Version** | 2.0.1 |
 | **Operating System** | Android 8.0 (Oreo / API Level 26) or higher |
-| **Architectures** | rm64-v8a, rmeabi-v7a, x86_64 |
+| **Architectures** | arm64-v8a, armeabi-v7a, x86_64 |
 | **Size** | ~28 MB (Optimized & Minified) |
 
 ---
@@ -85,7 +85,7 @@
 ## 📥 Download & Installation
 
 1. Go to the [**Releases**](https://github.com/shubhambelbase/ShareSathi/releases) section.
-2. Download the latest **ShareSathi-v2.0.apk** (or pp-release.apk).
+2. Download the latest **ShareSathi-v2.0.1.apk**.
 3. Open the downloaded file on your Android device.
 4. If prompted, allow *Install from unknown sources* in your Android Settings.
 5. Tap **Install** and enjoy **ShareSathi**!
