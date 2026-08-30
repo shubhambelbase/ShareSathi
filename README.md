@@ -1,14 +1,15 @@
-﻿# Bulk IPO — All-in-One Nepal Share Market & MeroShare Utility
+﻿# ShareSathi (शेयर साथी) — All-in-One Nepal Share Market & MeroShare Companion
 
 <p align=center>
+  <img src=https://img.shields.io/badge/Version-2.0.0-16C784?style=for-the-badge&logo=android alt=Version 2.0.0 />
   <img src=https://img.shields.io/badge/Platform-Android_8.0%2B-2ECC71?style=for-the-badge&logo=android&logoColor=white alt=Android />
   <img src=https://img.shields.io/badge/Security-AES--256_Encrypted-3498DB?style=for-the-badge&logo=shield alt=Security />
-  <img src=https://img.shields.io/badge/Architecture-100%25_Local--First-9B59B6?style=for-the-badge alt=Local First />
+  <img src=https://img.shields.io/badge/Privacy-100%25_Local--First-9B59B6?style=for-the-badge alt=Local First />
   <img src=https://img.shields.io/badge/Status-Production_Ready-E67E22?style=for-the-badge alt=Status />
 </p>
 
 <p align=center>
-  <b>Bulk IPO</b> is the fastest, most comprehensive mobile utility designed specifically for Nepal Stock Exchange (NEPSE) investors, MeroShare users, and IPO enthusiasts. Check hundreds of IPO results in seconds, apply to open issues across family accounts with one click, track your live stock portfolio, and analyze NEPSE market movements effortlessly.
+  <b>ShareSathi (शेयर साथी)</b> is the ultimate modern companion app for Nepal Stock Exchange (NEPSE) investors, MeroShare users, and IPO applicants. Check hundreds of IPO results in seconds, apply to open issues across family accounts with a single tap, track your live portfolio with real-time profit & loss, and monitor NEPSE market movements seamlessly.
 </p>
 
 ---
@@ -16,56 +17,56 @@
 ## 🌟 Key Features
 
 ### ⚡ 1. Lightning-Fast Bulk IPO Result Checker
-- **Check Multiple BOIDs Simultaneously:** Check IPO allotment results for your entire family or client list in seconds.
-- **Smart Captcha Automation:** Built-in intelligent on-device captcha recognition for instant, hassle-free results without typing captcha codes.
-- **Color-Coded Status Cards:** Immediately see allotted kittas, unallotted statuses, and detailed allocation summaries.
-- **Persistent Result History:** Automatically saves allotment records with timestamps and allotted quantities for future reference.
+- **Batch Result Checks:** Check IPO allotment results for your entire family or investor group in seconds.
+- **Smart Captcha Recognition:** Automated on-device captcha handling for instant, 1-tap result verification without manual typing.
+- **Clear Allotment Badges:** Color-coded status cards highlighting allotted kittas, unallotted statuses, and comprehensive batch summaries.
+- **Allotment History:** Automatically archives past check results with timestamps and allotted quantities for quick lookup.
 
 ---
 
-### 🚀 2. 1-Tap Bulk IPO Application (MeroShare)
-- **Multi-Account MeroShare Manager:** Seamlessly manage multiple MeroShare accounts (family members, personal portfolios) in one place.
-- **Bulk Apply with 1 Click:** Apply to open IPOs, FPOs, Mutual Funds, and Debentures across all enabled accounts in a single batch.
-- **Automated Bank & CASBA Routing:** Remembers CRN numbers, DP IDs, and preferred CASBA bank accounts securely.
-- **Application Tracking & Status:** View application history, allotment verification, and transaction timestamps.
+### 🚀 2. 1-Tap Bulk IPO Apply (MeroShare)
+- **Family Account Management:** Store and manage multiple MeroShare accounts safely in one unified place.
+- **1-Tap Batch Apply:** Apply to open IPOs, FPOs, Mutual Funds, and Debentures across all enabled accounts simultaneously.
+- **Automated CASBA & Bank Selection:** Remembers DP IDs, CRN numbers, and preferred CASBA bank accounts.
+- **Application Status & Verification:** Track submitted applications, allotment verification, and transaction timestamps.
 
 ---
 
 ### 📈 3. Real-Time NEPSE Live Market & Sector Pulse
-- **Live NEPSE Index:** Real-time index value, daily point change, percentage gain/loss, total turnover in Arba, and total volume traded.
-- **Dynamic Sector Heatmap:** Live sub-indices for Banking, Hydropower, Microfinance, Life Insurance, Non-Life Insurance, Hotels & Tourism, Manufacturing, Development Banks, and more.
+- **Live NEPSE Index:** Instant live updates of the NEPSE index, daily point change, percentage gain/loss, turnover in Arba, and total traded shares.
+- **Sector Heatmap:** Live sub-indices for Banking, Hydropower, Microfinance, Life Insurance, Non-Life Insurance, Hotels & Tourism, Manufacturing, Development Banks, and more.
 - **Top Movers & Floorsheet:** Real-time top gainers, top losers, high turnover stocks, and volume leaders.
-- **Instant Market Status:** Live indicators showing active trading sessions or closed market state.
+- **Live Market Indicator:** Real-time trading session status (Live Market / Market Closed).
 
 ---
 
-### 💼 4. Smart Portfolio Tracker & Stock Watchlists
-- **Full Investment Portfolio:** Track your stock holdings, purchase prices, current market values, realized/unrealized profit & loss (P&L), and total net worth.
-- **Interactive Multi-Group Watchlists:** Organize favorite NEPSE scrips into custom watchlists with live price feeds.
-- **Privacy Mode:** 1-tap hide/reveal portfolio balances and financial summaries when viewing in public.
+### 💼 4. Smart Portfolio Tracker & Watchlists
+- **Complete Investment Portfolio:** Track your stock holdings, buy prices, current market values, realized/unrealized profit & loss (P&L), and total portfolio worth.
+- **Multi-Group Watchlists:** Organize favorite NEPSE scrips into customizable watchlists with live market price feeds.
+- **Privacy Mode:** 1-tap toggle to hide/show balances and financial values in public environments.
 
 ---
 
-### 🎯 5. Complete Financial & Share Calculators
-- **Buy / Sell Stock Calculator:** Accurate calculation of Broker Commission, SEBON regulatory fee (0.015%), DP charge (Rs. 25), Capital Gains Tax (5% / 7.5%), and Net Payable/Receivable amounts.
-- **Bonus Share & Right Share Adjustment Calculator:** Instant book-closure adjusted price calculations for bonus distributions and right share offerings.
-- **IPO Allotment Probability Odds:** Compute mathematical allocation probabilities based on total applicant volume, issue kitta size, and over-subscription ratios.
-- **Weighted Average Cost of Capital (WACC) Calculator:** Easily compute your holding cost base for tax filings and EDIS transfers.
+### 🎯 5. Financial & Share Market Calculators
+- **Buy / Sell Stock Calculator:** Accurate computation of Broker Commission, SEBON regulatory fee (0.015%), DP charge (Rs. 25), Capital Gains Tax (5% / 7.5%), and Net Payable/Receivable amounts.
+- **Bonus Share & Right Share Adjustment:** Instant calculation of book-closure adjusted prices for bonus distributions and right share issues.
+- **IPO Allotment Probability Odds:** Calculate mathematical allocation probabilities based on total applicants, issue kitta size, and over-subscription ratios.
+- **WACC Calculator:** Effortlessly compute your holding cost base for tax filings and EDIS transfers.
 
 ---
 
 ### 🔔 6. Market Alerts & On-Screen Floating Widget
-- **On-Screen Floating Market Bubble:** An optional, non-intrusive floating overlay pill displaying live NEPSE index and market status while using any other app.
-- **52-Week High / Low & Breakout Alerts:** Receive instant notifications when watched stocks touch 52-week highs, 52-week lows, or experience significant price swings.
-- **Price Target Notifications:** Set custom target buy/sell price alerts for your favorite stocks.
-- **IPO Closing Day Reminders:** Timely alerts for issues closing within 24 to 48 hours so you never miss an application deadline.
+- **On-Screen Floating Market Bubble:** An optional, lightweight floating pill displaying live NEPSE index and market movements while multitasking across other apps.
+- **52-Week High / Low & Breakout Alerts:** Real-time notifications when watched stocks cross 52-week highs, 52-week lows, or move ±5% intraday.
+- **Price Target Alerts:** Set custom target buy/sell price notifications for any stock symbol.
+- **IPO Closing Day Reminders:** Proactive alerts for issues closing within 24 to 48 hours so you never miss an application deadline.
 
 ---
 
 ### 🔒 7. Bank-Grade Security & 100% Privacy-First
-- **Zero Cloud Tracking / No Telemetry:** No user data, passwords, BOIDs, or portfolio figures are ever transmitted to third-party tracking servers.
-- **Hardware-Backed AES-256 GCM Encryption:** All credentials, MeroShare passwords, and transaction PINs are encrypted on-device using the Android KeyStore.
-- **Local-First Architecture:** Instant app launch with offline caching — works smoothly even on slow or fluctuating mobile networks.
+- **Zero Cloud Tracking / No Telemetry:** No user credentials, passwords, BOIDs, or portfolio data are ever uploaded to third-party servers.
+- **Hardware-Backed AES-256 GCM Encryption:** All passwords, transaction PINs, and MeroShare tokens are encrypted on-device using Android KeyStore.
+- **Local-First Architecture:** Instant app launch with offline caching — operates smoothly even on slow or unstable network connections.
 
 ---
 
@@ -73,21 +74,23 @@
 
 | Requirement | Specification |
 |---|---|
+| **App Name** | ShareSathi (शेयर साथी) |
+| **Version** | 2.0.0 |
 | **Operating System** | Android 8.0 (Oreo / API Level 26) or higher |
-| **Architectures Supported** | rm64-v8a, rmeabi-v7a, x86_64 |
-| **Network** | Internet connection for live NEPSE data and MeroShare sync |
-| **Size** | ~28 MB (Lightweight & Fully Optimized) |
+| **Architectures** | rm64-v8a, rmeabi-v7a, x86_64 |
+| **Size** | ~28 MB (Optimized & Minified) |
 
 ---
 
 ## 📥 Download & Installation
 
-1. Download the latest **pp-release.apk** from this repository or the Releases section.
-2. Open the downloaded file on your Android device.
-3. If prompted, allow *Install from unknown sources* in your Android Settings.
-4. Tap **Install** and launch **Bulk IPO**!
+1. Go to the [**Releases**](https://github.com/shubhambelbase/ShareSathi/releases) section.
+2. Download the latest **ShareSathi-v2.0.apk** (or pp-release.apk).
+3. Open the downloaded file on your Android device.
+4. If prompted, allow *Install from unknown sources* in your Android Settings.
+5. Tap **Install** and enjoy **ShareSathi**!
 
 ---
 
 ## 🛡️ Disclaimer
-*Bulk IPO is an independent utility application developed to simplify IPO allotment checking and MeroShare portfolio tracking for Nepali investors. All market data is retrieved directly from public NEPSE and CDSC portals.*
+*ShareSathi is an independent utility application developed to assist Nepali investors with IPO allotment checks, MeroShare portfolio tracking, and NEPSE market analytics. All market data is retrieved directly from public NEPSE and CDSC portals.*
