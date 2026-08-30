@@ -1,7 +1,7 @@
-﻿# ShareSathi (शेयर साथी) — All-in-One Nepal Share Market & MeroShare Companion
+# ShareSathi — All-in-One Nepal Share Market & MeroShare Companion
 
 <p align=center>
-  <img src=https://img.shields.io/badge/Version-2.0.0-16C784?style=for-the-badge&logo=android alt=Version 2.0.0 />
+  <img src=https://img.shields.io/badge/Version-2.0.1-16C784?style=for-the-badge&logo=android alt=Version 2.0.1 />
   <img src=https://img.shields.io/badge/Platform-Android_8.0%2B-2ECC71?style=for-the-badge&logo=android&logoColor=white alt=Android />
   <img src=https://img.shields.io/badge/Security-AES--256_Encrypted-3498DB?style=for-the-badge&logo=shield alt=Security />
   <img src=https://img.shields.io/badge/Privacy-100%25_Local--First-9B59B6?style=for-the-badge alt=Local First />
@@ -9,7 +9,7 @@
 </p>
 
 <p align=center>
-  <b>ShareSathi (शेयर साथी)</b> is the ultimate modern companion app for Nepal Stock Exchange (NEPSE) investors, MeroShare users, and IPO applicants. Check hundreds of IPO results in seconds, apply to open issues across family accounts with a single tap, track your live portfolio with real-time profit & loss, and monitor NEPSE market movements seamlessly.
+  <b>ShareSathi</b> is the ultimate modern companion app for Nepal Stock Exchange (NEPSE) investors, MeroShare users, and IPO applicants. Check hundreds of IPO results in seconds, apply to open issues across family accounts with a single tap, track your live portfolio with real-time profit & loss, and monitor NEPSE market movements seamlessly.
 </p>
 
 ---
