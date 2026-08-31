@@ -1,7 +1,7 @@
 # ShareSathi — All-in-One Nepal Share Market & MeroShare Companion
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.3-16C784?style=for-the-badge&logo=android" alt="Version 2.1.3" />
+  <img src="https://img.shields.io/badge/Version-2.1.5-16C784?style=for-the-badge&logo=android" alt="Version 2.1.5" />
   <img src="https://img.shields.io/badge/Platform-Android_8.0%2B-2ECC71?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Security-AES--256_Encrypted-3498DB?style=for-the-badge&logo=shield" alt="Security" />
   <img src="https://img.shields.io/badge/Privacy-100%25_Local--First-9B59B6?style=for-the-badge" alt="Local First" />
@@ -86,7 +86,7 @@
 | Requirement | Specification |
 |---|---|
 | **App Name** | ShareSathi |
-| **Version** | 2.1.3 |
+| **Version** | 2.1.5 |
 | **Operating System** | Android 8.0 (Oreo / API Level 26) or higher |
 | **Architectures** | arm64-v8a, armeabi-v7a, x86_64 |
 | **Size** | ~28 MB (Optimized & Minified) |
@@ -96,7 +96,7 @@
 ## 📥 Download & Installation
 
 1. Go to the [**Releases**](https://github.com/shubhambelbase/ShareSathi/releases) section.
-2. Download the latest **ShareSathi-v2.1.3.apk**.
+2. Download the latest **ShareSathi-v2.1.5.apk**.
 3. Open the downloaded file on your Android device.
 4. If prompted, allow *Install from unknown sources* in your Android Settings.
 5. Tap **Install** and enjoy **ShareSathi**!
