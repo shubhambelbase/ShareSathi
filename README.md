@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Platform-Android_8.0%2B-2ECC71?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Security-AES--256_Encrypted-3498DB?style=for-the-badge&logo=shield" alt="Security" />
   <img src="https://img.shields.io/badge/Privacy-100%25_Local--First-9B59B6?style=for-the-badge" alt="Local First" />
-  <img src="https://img.shields.io/badge/Status-Production_Ready-E67E22?style=for-the-badge" alt="Status" />
 </p>
 
 <p align="center">
