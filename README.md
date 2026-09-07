@@ -1,7 +1,7 @@
 # ShareSathi — All-in-One Nepal Share Market & MeroShare Companion
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.7-16C784?style=for-the-badge&logo=android" alt="Version 2.1.7" />
+  <img src="https://img.shields.io/badge/Version-2.1.8-16C784?style=for-the-badge&logo=android" alt="Version 2.1.8" />
   <img src="https://img.shields.io/badge/Platform-Android_8.0%2B-2ECC71?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Security-AES--256_Encrypted-3498DB?style=for-the-badge&logo=shield" alt="Security" />
   <img src="https://img.shields.io/badge/Privacy-100%25_Local--First-9B59B6?style=for-the-badge" alt="Local First" />
@@ -27,7 +27,9 @@
 - **Family Account Management:** Store and manage multiple MeroShare accounts safely in one unified place.
 - **Smart Set-and-Forget Auto-Apply:** Automatically applies 10 kitta to open General Public IPOs on opening day across all enabled family accounts without needing to open the app.
 - **1-Tap Batch Apply:** Apply to open IPOs, FPOs, Mutual Funds, and Debentures across all enabled accounts simultaneously.
-- **Automated CASBA & Bank Selection:** Remembers DP IDs, CRN numbers, and preferred CASBA bank accounts.
+- **Precision MeroShare Integration:** Compliant with MeroShare Spring Boot validation constraints, auto-formatting 16-digit Demat and 8-digit client BOIDs seamlessly.
+- **Accurate Apply Status:** Distinct "Applied successfully" status badge and detailed bank validation responses (e.g. CRN, PIN, Balance), separating application submission from lottery allotment.
+- **Automated CASBA & Bank Selection:** Remembers DP IDs, CRN numbers, and preferred CASBA bank accounts with automatic stored data fallback.
 - **Application Status & Verification:** Track submitted applications, allotment verification, and transaction timestamps.
 
 ---
@@ -95,7 +97,7 @@
 | Requirement | Specification |
 |---|---|
 | **App Name** | ShareSathi |
-| **Version** | 2.1.7 |
+| **Version** | 2.1.8 |
 | **Operating System** | Android 8.0 (Oreo / API Level 26) or higher |
 | **Architectures** | arm64-v8a, armeabi-v7a, x86_64 |
 | **Size** | ~28 MB (Optimized & Minified) |
@@ -105,7 +107,7 @@
 ## 📥 Download & Installation
 
 1. Go to the [**Releases**](https://github.com/shubhambelbase/ShareSathi/releases) section.
-2. Download the latest **ShareSathi-v2.1.7.apk**.
+2. Download the latest **ShareSathi-v2.1.8.apk**.
 3. Open the downloaded file on your Android device.
 4. If prompted, allow *Install from unknown sources* in your Android Settings.
 5. Tap **Install** and enjoy **ShareSathi**!
