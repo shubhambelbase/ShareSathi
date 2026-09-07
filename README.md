@@ -1,7 +1,7 @@
 # ShareSathi — All-in-One Nepal Share Market & MeroShare Companion
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.6-16C784?style=for-the-badge&logo=android" alt="Version 2.1.6" />
+  <img src="https://img.shields.io/badge/Version-2.1.7-16C784?style=for-the-badge&logo=android" alt="Version 2.1.7" />
   <img src="https://img.shields.io/badge/Platform-Android_8.0%2B-2ECC71?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Security-AES--256_Encrypted-3498DB?style=for-the-badge&logo=shield" alt="Security" />
   <img src="https://img.shields.io/badge/Privacy-100%25_Local--First-9B59B6?style=for-the-badge" alt="Local First" />
@@ -23,15 +23,31 @@
 
 ---
 
-### 🚀 2. 1-Tap Bulk IPO Apply (MeroShare)
+### 🚀 2. 1-Tap Bulk IPO Apply & Smart "Set-and-Forget" Auto-Apply
 - **Family Account Management:** Store and manage multiple MeroShare accounts safely in one unified place.
+- **Smart Set-and-Forget Auto-Apply:** Automatically applies 10 kitta to open General Public IPOs on opening day across all enabled family accounts without needing to open the app.
 - **1-Tap Batch Apply:** Apply to open IPOs, FPOs, Mutual Funds, and Debentures across all enabled accounts simultaneously.
 - **Automated CASBA & Bank Selection:** Remembers DP IDs, CRN numbers, and preferred CASBA bank accounts.
 - **Application Status & Verification:** Track submitted applications, allotment verification, and transaction timestamps.
 
 ---
 
-### 📅 3. Real-Time Market News, Notices & Upcoming IPOs
+### 💼 3. Smart Portfolio Tracker & 1-Tap MeroShare WACC Auto-Import
+- **1-Tap MeroShare Portfolio & WACC Sync:** Automatically fetch your purchase history, calculate weighted average cost bases (WACC), and import holdings directly from MeroShare with 1 tap.
+- **Live Profit & Loss (P&L):** Real-time valuation tracking against live NEPSE prices with daily and overall returns.
+- **1-Tap Stock Watchlist Star:** Instantly add or remove any stock to your watchlists directly from its Stock Details screen.
+- **Multi-Group Watchlists:** Organize favorite NEPSE scrips into customizable watchlists with live market price feeds.
+- **Privacy Mode:** 1-tap toggle to hide/show balances and financial values in public environments.
+
+---
+
+### 📊 4. Order Flow Imbalance & Institutional Block Order Gauges
+- **Live Sentiment Gauge:** Dual-color real-time visual progress bar tracking buyer vs seller pressure dynamically from the top 5 bid/ask market depth.
+- **Institutional Accumulation Alerts:** Automatic detection and visual alerts for high-volume block orders (>= 5,000 kitta) on bid and ask sides.
+
+---
+
+### 📅 5. Real-Time Market News, Notices & Upcoming IPOs
 - **News & Corporate Updates:** Instant access to dividend declarations, AGMs, book closures, right share notices, and official NEPSE disclosures with periodic background push notifications.
 - **Comprehensive IPO Calendar:** Live tracking of Open Issues, Upcoming IPOs (with opening countdowns), and issues Closing Soon with category filters.
 - **Swipe-to-Refresh Gesture:** Native physics-based pull-down refresh gesture across tools and calendars.
@@ -40,20 +56,12 @@
 
 ---
 
-### 📈 4. Real-Time NEPSE Live Market & Dynamic Stock Sync
+### 📈 6. Real-Time NEPSE Live Market & Dynamic Stock Sync
 - **Live NEPSE Index:** Instant live updates of the NEPSE index, daily point change, percentage gain/loss, turnover in Arba, and total traded shares.
 - **Auto-Sync Newly Listed Stocks:** Automatically discovers, indexes, and caches newly listed IPOs, FPOs, bonds, and scrips upon listing without requiring app updates.
 - **Sector Heatmap:** Live sub-indices for Banking, Hydropower, Microfinance, Life Insurance, Non-Life Insurance, Hotels & Tourism, Manufacturing, Development Banks, and more.
 - **Top Movers & Floorsheet:** Real-time top gainers, top losers, high turnover stocks, and volume leaders.
 - **Live Market Indicator:** Real-time trading session status (Live Market / Market Closed).
-
----
-
-### 💼 5. Smart Portfolio Tracker & 1-Tap Stock Watchlist
-- **1-Tap Stock Watchlist Star:** Instantly add or remove any stock to your watchlists directly from its Stock Details screen.
-- **Complete Investment Portfolio:** Track your stock holdings, buy prices, current market values, realized/unrealized profit & loss (P&L), and total portfolio worth.
-- **Multi-Group Watchlists:** Organize favorite NEPSE scrips into customizable watchlists with live market price feeds.
-- **Privacy Mode:** 1-tap toggle to hide/show balances and financial values in public environments.
 
 ---
 
@@ -73,7 +81,8 @@
 
 ---
 
-### 🔒 9. Bank-Grade Security & 100% Privacy-First
+### 🔒 9. Bank-Grade Security, API Hardening & 100% Privacy-First
+- **Network & API Hardening:** Selective ProGuard/R8 scrambling, compile-time XOR endpoint string encryption, and strict Network Security Configuration blocking MITM proxy tools (HTTP Toolkit, Charles, Burp).
 - **Zero Cloud Tracking / No Telemetry:** No user credentials, passwords, BOIDs, or portfolio data are ever uploaded to third-party servers.
 - **Hardware-Backed AES-256 GCM Encryption:** All passwords, transaction PINs, and MeroShare tokens are encrypted on-device using Android KeyStore.
 - **Biometric Inactivity Timeout:** Re-prompts biometric authentication when resuming after 3 minutes of background inactivity for maximum security.
@@ -86,7 +95,7 @@
 | Requirement | Specification |
 |---|---|
 | **App Name** | ShareSathi |
-| **Version** | 2.1.6 |
+| **Version** | 2.1.7 |
 | **Operating System** | Android 8.0 (Oreo / API Level 26) or higher |
 | **Architectures** | arm64-v8a, armeabi-v7a, x86_64 |
 | **Size** | ~28 MB (Optimized & Minified) |
@@ -96,7 +105,7 @@
 ## 📥 Download & Installation
 
 1. Go to the [**Releases**](https://github.com/shubhambelbase/ShareSathi/releases) section.
-2. Download the latest **ShareSathi-v2.1.6.apk**.
+2. Download the latest **ShareSathi-v2.1.7.apk**.
 3. Open the downloaded file on your Android device.
 4. If prompted, allow *Install from unknown sources* in your Android Settings.
 5. Tap **Install** and enjoy **ShareSathi**!
